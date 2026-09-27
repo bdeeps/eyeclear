@@ -1,0 +1,109 @@
+{
+  "slug": "eyeclear",
+  "box": 31,
+  "date": "2026-10-11",
+  "title": "EyeClear",
+  "question": "How does the eye see?",
+  "hook": "Your eye is a 24 mm camera that focuses by changing the shape of a living lens, turns light into signals with 120 million rods and 6 million cones, and even has a blind spot you never notice. Trace real light rays through a 3D eye, try on glasses, and find your own blind spot.",
+  "thumbText": "HOW THE EYE SEES",
+  "field": "body",
+  "minutes": 15,
+  "tags": [
+    "eye",
+    "vision",
+    "retina",
+    "myopia",
+    "colour vision",
+    "optics",
+    "human body",
+    "biology",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A camera made of jelly",
+      "text": "Light enters through the clear cornea, passes the pupil in the coloured iris, and is focused by the lens onto the retina at the back of a 24 mm ball of clear jelly. Six muscles turn the eye, and the optic nerve carries its signals to the brain."
+    },
+    {
+      "title": "The cornea does most of the focusing",
+      "text": "The eye has about 60 dioptres of focusing power. The fixed, curved cornea gives about 42 of them; the lens adds about 20 and does the adjusting. To see near things the ciliary muscle contracts, the zonules slacken and the lens rounds up. The picture on the retina is upside down."
+    },
+    {
+      "title": "Why we need reading glasses",
+      "text": "The lens stiffens with age. A child can focus about 14 dioptres closer, a 45-year-old about 4 and a 60-year-old about 1, so the near point moves past arm's length in the 40s. This presbyopia happens to everyone."
+    },
+    {
+      "title": "A millimetre too long",
+      "text": "In short sight the eyeball is usually too long, so distant light focuses in front of the retina; each extra millimetre is roughly 3 dioptres. A concave lens fixes it, a convex lens fixes long sight. About half the world may be short-sighted by 2050."
+    },
+    {
+      "title": "Rods, cones and the blind spot",
+      "text": "About 120 million rods see in dim light but not in colour; about 6 million cones, packed into the fovea, give colour and detail. A photon changes the shape of retinal in rhodopsin to start the signal. Where the optic nerve leaves there are no receptors at all: the blind spot."
+    },
+    {
+      "title": "Three cones make every colour",
+      "text": "S, M and L cones peak near 420, 530 and 560 nm, and the brain reads colour from the pattern of their signals. Red plus green light can excite them exactly like yellow light, which is how screens work. About 8% of men of Northern European ancestry have red-green colour vision deficiency."
+    },
+    {
+      "title": "Keeping eyes healthy",
+      "text": "Cataract, a clouded lens, is the leading cause of blindness worldwide and in India, and surgery replaces it with a clear plastic lens. Glaucoma quietly damages the optic nerve and diabetes can damage the retina, so regular eye checks matter. For your own eyes, see an eye doctor."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Cornea",
+      "def": "The clear dome at the front of the eye, which does about two-thirds of the focusing."
+    },
+    {
+      "term": "Lens and accommodation",
+      "def": "The flexible lens behind the pupil changes shape to focus on near things; this is accommodation."
+    },
+    {
+      "term": "Dioptre",
+      "def": "A unit of focusing power: 1 divided by the focal length in metres. The whole eye has about 60."
+    },
+    {
+      "term": "Retina",
+      "def": "The light-sensing layer lining the back of the eye, with rods, cones and nerve cells."
+    },
+    {
+      "term": "Fovea",
+      "def": "A tiny pit in the macula, packed with cones, where vision is sharpest."
+    },
+    {
+      "term": "Rods and cones",
+      "def": "Rods see in dim light without colour; three kinds of cone see colour and detail in good light."
+    },
+    {
+      "term": "Blind spot",
+      "def": "The optic disc, where the optic nerve leaves the eye and there are no rods or cones."
+    },
+    {
+      "term": "Myopia",
+      "def": "Short sight: distant things blur because light focuses in front of the retina, usually because the eye is too long."
+    },
+    {
+      "term": "Presbyopia",
+      "def": "The loss of near focusing with age as the lens stiffens, usually noticed in the 40s."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "eyeclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

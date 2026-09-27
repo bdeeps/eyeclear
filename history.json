@@ -1,0 +1,946 @@
+{
+  "title": "The history of understanding the eye",
+  "tagline": "2,600 years from pushing a cloudy lens aside with a needle to lasers, plastic lenses and a billion people still waiting for glasses.",
+  "intro": "For most of history people argued about how we see at all: did rays leave the eye, or enter it? Ibn al-Haytham showed that light comes in, Kepler found the upside-down picture on the retina, and scientists slowly learned how three kinds of cone make colour and how a single photon starts a signal. At the same time, spectacles, eye charts, contact lenses, plastic lenses and lasers turned that knowledge into sight for millions, from London to Madurai.",
+  "eras": [
+    {
+      "id": "ancient",
+      "name": "Seeing and healing",
+      "from": -600,
+      "to": 1760,
+      "color": "#c49bff",
+      "summary": "Early surgeons in India and Europe treat cataracts, while Greek thinkers imagine rays shooting out of the eye."
+    },
+    {
+      "id": "optics",
+      "name": "Light makes the picture",
+      "from": 1000,
+      "to": 1700,
+      "color": "#ffb547",
+      "summary": "Ibn al-Haytham shows light enters the eye, Italian craftsmen make glasses, and Kepler finds the upside-down image on the retina."
+    },
+    {
+      "id": "colour",
+      "name": "Colour, charts and the living retina",
+      "from": 1660,
+      "to": 1870,
+      "color": "#ff7a59",
+      "summary": "Newton splits light, Young proposes three receptors, Helmholtz looks inside a living eye and Snellen measures sight."
+    },
+    {
+      "id": "cells",
+      "name": "Cells and signals",
+      "from": 1870,
+      "to": 1970,
+      "color": "#5ce1a9",
+      "summary": "Scientists find visual purple, draw the retina's cells and work out how light becomes a nerve signal and a picture in the brain."
+    },
+    {
+      "id": "repair",
+      "name": "Fixing sight for millions",
+      "from": 1885,
+      "to": 2000,
+      "color": "#7aa2ff",
+      "summary": "Contact lenses, plastic lenses inside the eye, laser surgery and mass cataract programmes in India bring sight back on a huge scale."
+    },
+    {
+      "id": "global",
+      "name": "A global eye",
+      "from": 2000,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Short sight spreads fast and billions still lack care, so eye health becomes a worldwide goal."
+    }
+  ],
+  "events": [
+    {
+      "year": -600,
+      "date": "c. 600 BCE (attributed)",
+      "era": "ancient",
+      "art": "scroll",
+      "title": "Pushing a cloudy lens out of the way",
+      "who": "Sushruta (attributed)",
+      "where": "Varanasi region",
+      "country": "India",
+      "text": "The Sushruta Samhita, an ancient Indian surgical text, describes couching: a needle pushes the clouded lens down and out of the line of sight. Scholars date the text in layers, some of it centuries later than Sushruta himself.",
+      "why": "It is one of the oldest known descriptions of eye surgery, and couching was used for cataract for over two thousand years.",
+      "box": "health",
+      "sources": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "year": -300,
+      "date": "c. 300 BCE",
+      "era": "ancient",
+      "art": "eye",
+      "title": "Rays shoot out of the eye",
+      "who": "Euclid",
+      "where": "Alexandria",
+      "country": "Egypt",
+      "text": "Euclid's Optics treats vision with straight lines drawn from the eye to what it sees. Like many Greek thinkers he imagined the rays going out of the eye, not in.",
+      "why": "His geometry of straight rays survived, even though the direction turned out to be backwards.",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": 1011,
+      "date": "1011–1021",
+      "era": "optics",
+      "art": "eye",
+      "key": true,
+      "title": "Light comes into the eye",
+      "who": "Ibn al-Haytham (Alhazen)",
+      "where": "Cairo",
+      "country": "Egypt",
+      "text": "In his Book of Optics, written in Cairo, Ibn al-Haytham argued with experiments that we see because light from objects enters the eye, not because the eye sends out rays. He studied the anatomy of the eye and the camera obscura.",
+      "why": "It set optics on the path of testing ideas with experiments, and shaped European science for centuries.",
+      "box": "anatomy",
+      "sources": [
+        4,
+        5
+      ]
+    },
+    {
+      "year": 1286,
+      "date": "c. 1286",
+      "era": "optics",
+      "art": "lens",
+      "key": true,
+      "title": "Glasses for reading",
+      "who": "Unknown craftsmen",
+      "where": "Pisa, Italy",
+      "country": "Italy",
+      "text": "Convex lenses in frames, to help older people read, appeared in northern Italy. A sermon given in Florence in 1306 by the friar Giordano da Pisa said the art of making them was not yet twenty years old.",
+      "why": "Spectacles were among the first tools to fix a failing part of the human body, and they gave scholars decades more of reading.",
+      "box": "focus",
+      "sources": [
+        6,
+        7
+      ]
+    },
+    {
+      "year": 1604,
+      "date": "1604",
+      "era": "optics",
+      "art": "focus",
+      "key": true,
+      "title": "A picture on the retina, upside down",
+      "who": "Johannes Kepler",
+      "where": "Prague",
+      "country": "Czech Republic",
+      "text": "In a book on optics, Kepler worked out that the lens of the eye focuses light into an upside-down picture on the retina, and that the retina, not the lens, is where seeing starts. He also explained how concave and convex lenses help short and long sight.",
+      "why": "It is the camera model of the eye we still use today.",
+      "box": "focus",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": 1619,
+      "date": "1619 and 1626–1630",
+      "era": "optics",
+      "art": "eye",
+      "title": "Looking through the back of an ox eye",
+      "who": "Christoph Scheiner",
+      "where": "Innsbruck and Rome",
+      "country": "Austria / Italy",
+      "text": "Scheiner described the eye's anatomy and refraction in his book Oculus (1619). In a later book, Rosa Ursina, he reported cutting away the back coats of animal and human eyes so he could see the tiny inverted image on the retina itself, confirming Kepler.",
+      "why": "It showed with the eye itself that the image on the retina really is upside down.",
+      "box": "focus",
+      "sources": [
+        9,
+        10
+      ]
+    },
+    {
+      "year": 1672,
+      "date": "1666–1672",
+      "era": "colour",
+      "art": "colour",
+      "title": "White light is a mix of colours",
+      "who": "Isaac Newton",
+      "where": "Cambridge",
+      "country": "England",
+      "text": "With prisms, Newton split sunlight into a spectrum and recombined it into white. He reported the work to the Royal Society in 1672 and later wrote it up in his book Opticks (1704).",
+      "why": "It showed that colour is in the light and in how we sense it, the starting point for colour vision science.",
+      "box": "colour",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 1747,
+      "date": "8 April 1747",
+      "era": "ancient",
+      "art": "lens",
+      "title": "Taking the cloudy lens out",
+      "who": "Jacques Daviel",
+      "where": "Paris",
+      "country": "France",
+      "text": "Instead of pushing a cataract aside, the French surgeon Daviel opened the eye and removed the cloudy lens. He presented his method to the Royal Academy of Surgery in 1752.",
+      "why": "Removing the lens, rather than couching it, is the basis of every cataract operation today.",
+      "box": "health",
+      "sources": [
+        12,
+        13
+      ]
+    },
+    {
+      "year": 1794,
+      "date": "31 October 1794",
+      "era": "colour",
+      "art": "colour",
+      "key": true,
+      "title": "A scientist describes his own colour blindness",
+      "who": "John Dalton",
+      "where": "Manchester",
+      "country": "England",
+      "text": "Dalton, a chemist, noticed that flowers other people called pink looked blue to him. He described his colour vision to the Manchester Literary and Philosophical Society, and for a long time colour blindness was called Daltonism.",
+      "why": "It was one of the first careful scientific reports of colour vision deficiency.",
+      "box": "colour",
+      "sources": [
+        14,
+        50
+      ]
+    },
+    {
+      "year": 1802,
+      "date": "1802",
+      "era": "colour",
+      "art": "colour",
+      "key": true,
+      "title": "Three kinds of receptor",
+      "who": "Thomas Young",
+      "where": "London",
+      "country": "England",
+      "text": "Young proposed that the eye does not need a receptor for every colour: three kinds, sensitive to different parts of the spectrum, are enough. In the 1850s Hermann von Helmholtz developed the idea further, so it is called the Young–Helmholtz theory.",
+      "why": "It is the three-cone theory of colour, confirmed by measurements more than 150 years later.",
+      "box": "colour",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 1819,
+      "date": "1819",
+      "era": "colour",
+      "art": "building",
+      "title": "Asia's first eye hospital",
+      "who": "Robert Richardson",
+      "where": "Madras (Chennai)",
+      "country": "India",
+      "text": "The Madras Eye Infirmary opened in 1819, the second eye hospital in the world after Moorfields in London (1805). It became the Regional Institute of Ophthalmology in Egmore, Chennai.",
+      "why": "It began a long tradition of eye care and training in India.",
+      "box": "health",
+      "sources": [
+        16,
+        17
+      ]
+    },
+    {
+      "year": 1851,
+      "date": "1851",
+      "era": "colour",
+      "art": "eye",
+      "key": true,
+      "title": "Seeing inside a living eye",
+      "who": "Hermann von Helmholtz",
+      "where": "Königsberg",
+      "country": "Germany (now Russia)",
+      "text": "Helmholtz built the ophthalmoscope, a mirror that sends light into the eye and lets a doctor look along the same path to see the retina, its blood vessels and the optic disc.",
+      "why": "For the first time doctors could see diseases of the retina and optic nerve in living patients.",
+      "box": "anatomy",
+      "sources": [
+        18,
+        19
+      ]
+    },
+    {
+      "year": 1862,
+      "date": "1862",
+      "era": "colour",
+      "art": "word",
+      "key": true,
+      "title": "The eye chart",
+      "who": "Herman Snellen",
+      "where": "Utrecht",
+      "country": "Netherlands",
+      "text": "Snellen designed letters on a grid, each part one-fifth of the letter's height, so that sharpness of sight could be measured and compared. His chart, with the big E at the top, is still used around the world.",
+      "why": "It turned \"I can't see well\" into a number, like 6/6 or 20/20.",
+      "box": "glasses",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 1864,
+      "date": "1864",
+      "era": "colour",
+      "art": "lens",
+      "title": "Short sight, long sight and age explained",
+      "who": "Franciscus Donders",
+      "where": "Utrecht",
+      "country": "Netherlands",
+      "text": "Donders' book On the Anomalies of Accommodation and Refraction of the Eye explained myopia, hyperopia, astigmatism and presbyopia and how to measure and correct them with lenses.",
+      "why": "It made fitting glasses a science.",
+      "box": "glasses",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 1876,
+      "date": "1876",
+      "era": "cells",
+      "art": "flask",
+      "title": "Visual purple bleaches in the light",
+      "who": "Franz Boll",
+      "where": "Rome",
+      "country": "Italy",
+      "text": "Boll saw that the reddish-purple colour of a frog's retina faded in bright light and came back in the dark. The pigment, rhodopsin, was then studied by Wilhelm Kühne.",
+      "why": "It was the first clue to how light is caught by the eye's chemistry.",
+      "box": "retina",
+      "sources": [
+        22,
+        23
+      ]
+    },
+    {
+      "year": 1888,
+      "date": "1888",
+      "era": "repair",
+      "art": "lens",
+      "title": "The first contact lens",
+      "who": "Adolf Eugen Fick",
+      "where": "Zurich",
+      "country": "Switzerland",
+      "text": "Fick made a glass shell that sat on the white of the eye over the cornea, tried it on rabbits, then on himself and a few volunteers, and published it as a \"Contactbrille\".",
+      "why": "Contact lenses now correct the sight of well over a hundred million people.",
+      "box": "glasses",
+      "sources": [
+        24,
+        25
+      ]
+    },
+    {
+      "year": 1892,
+      "date": "1892–1893",
+      "era": "cells",
+      "art": "brain",
+      "title": "Drawing the retina cell by cell",
+      "who": "Santiago Ramón y Cajal",
+      "where": "Madrid",
+      "country": "Spain",
+      "text": "Using a silver stain, Cajal drew the retina's layers of rods, cones, bipolar cells and ganglion cells and argued that signals flow from one cell to the next in a set direction.",
+      "why": "His drawings are still used to teach how the retina is wired.",
+      "box": "retina",
+      "sources": [
+        26
+      ]
+    },
+    {
+      "year": 1911,
+      "date": "1911",
+      "era": "cells",
+      "art": "trophy",
+      "title": "A Nobel Prize for the eye's optics",
+      "who": "Allvar Gullstrand",
+      "where": "Uppsala",
+      "country": "Sweden",
+      "text": "Gullstrand won the Nobel Prize in Physiology or Medicine for his work on the dioptrics of the eye, how the cornea and lens bend light. His schematic eye is an ancestor of the model used in this box.",
+      "why": "It made the eye a precise optical system that could be calculated.",
+      "box": "focus",
+      "sources": [
+        27
+      ]
+    },
+    {
+      "year": 1949,
+      "date": "29 November 1949",
+      "era": "repair",
+      "art": "lens",
+      "key": true,
+      "title": "A plastic lens inside the eye",
+      "who": "Harold Ridley",
+      "where": "St Thomas' Hospital, London",
+      "country": "England",
+      "text": "Ridley noticed that splinters of acrylic plastic from aircraft canopies sat quietly in wounded RAF pilots' eyes. He designed an acrylic lens and implanted it after removing a cataract. Many doctors doubted him for years.",
+      "why": "Intraocular lenses are now fitted in millions of cataract operations every year.",
+      "box": "health",
+      "sources": [
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "year": 1959,
+      "date": "1959",
+      "era": "cells",
+      "art": "brain",
+      "title": "How the brain reads the eye",
+      "who": "David Hubel and Torsten Wiesel",
+      "where": "Johns Hopkins University, Baltimore",
+      "country": "USA",
+      "text": "Recording from single cells in the visual cortex, Hubel (from Canada) and Wiesel (from Sweden) found cells that respond to edges and lines at particular angles. They shared the 1981 Nobel Prize.",
+      "why": "It showed how the brain builds pictures out of simple features from the eyes.",
+      "sources": [
+        31
+      ]
+    },
+    {
+      "year": 1967,
+      "date": "1967",
+      "era": "cells",
+      "art": "trophy",
+      "key": true,
+      "title": "The chemistry of seeing wins a Nobel",
+      "who": "George Wald, Ragnar Granit and Haldan Keffer Hartline",
+      "where": "Harvard, Stockholm and Rockefeller University",
+      "country": "USA / Sweden",
+      "text": "Wald showed that vitamin A forms retinal, the part of rhodopsin that changes shape when it catches light. Granit and Hartline showed how the retina's cells turn light into nerve signals.",
+      "why": "It explained the first step of vision, from photon to signal.",
+      "box": "retina",
+      "sources": [
+        32,
+        23
+      ]
+    },
+    {
+      "year": 1976,
+      "date": "1976",
+      "era": "repair",
+      "art": "building",
+      "key": true,
+      "title": "Eleven beds in Madurai",
+      "who": "Govindappa Venkataswamy",
+      "where": "Madurai",
+      "country": "India",
+      "text": "After retiring as a government eye surgeon, Dr Venkataswamy opened an 11-bed eye clinic. Aravind Eye Hospitals grew into one of the world's largest eye care providers, doing hundreds of thousands of surgeries a year with most poor patients paying little or nothing.",
+      "why": "Its high-volume, low-cost model has been copied around the world.",
+      "box": "health",
+      "sources": [
+        33,
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "year": 1976,
+      "date": "1976",
+      "era": "repair",
+      "art": "person",
+      "title": "India's national fight against blindness",
+      "who": "Government of India",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "India launched the National Programme for Control of Blindness, with cataract surgery at its heart. It is now the National Programme for Control of Blindness and Visual Impairment and supports millions of cataract operations every year, many of them free.",
+      "why": "It turned cataract surgery into a public health campaign across a vast country.",
+      "box": "health",
+      "sources": [
+        37,
+        38,
+        46
+      ]
+    },
+    {
+      "year": 1988,
+      "date": "17 May 1988",
+      "era": "repair",
+      "art": "trophy",
+      "title": "A laser probe for cataracts",
+      "who": "Patricia Bath",
+      "where": "Los Angeles",
+      "country": "USA",
+      "text": "Bath patented the Laserphaco Probe, a device that uses a laser to break up a cataract before it is removed. She was the first Black woman doctor to receive a US patent for a medical invention, and co-founded the American Institute for the Prevention of Blindness.",
+      "why": "Her work helped make cataract surgery gentler and campaigned for eye care as a right.",
+      "box": "health",
+      "sources": [
+        39,
+        40
+      ]
+    },
+    {
+      "year": 1990,
+      "date": "1989–1990",
+      "era": "repair",
+      "art": "focus",
+      "title": "Reshaping the cornea with a laser",
+      "who": "Ioannis Pallikaris",
+      "where": "University of Crete, Heraklion",
+      "country": "Greece",
+      "text": "Pallikaris lifted a thin flap of cornea and reshaped the tissue beneath with an excimer laser. He first tried it on a blind eye in 1989 and on sighted eyes in 1990, and named it LASIK.",
+      "why": "Changing the cornea's curve changes the eye's main lens, so millions no longer need glasses.",
+      "box": "glasses",
+      "sources": [
+        41,
+        42
+      ]
+    },
+    {
+      "year": 2016,
+      "date": "2016",
+      "era": "global",
+      "art": "earth",
+      "title": "Half the world short-sighted by 2050?",
+      "who": "Brien Holden Vision Institute (Holden et al.)",
+      "where": "Sydney",
+      "country": "Australia",
+      "text": "A study pooling data from around the world estimated that about 23% of people were short-sighted in 2000 and projected about 50%, nearly five billion people, by 2050, driven by more near work and less time outdoors.",
+      "why": "It made myopia a global public health concern, especially in children.",
+      "box": "glasses",
+      "sources": [
+        43,
+        44
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "2019",
+      "era": "global",
+      "art": "earth",
+      "title": "Two billion people with poor sight",
+      "who": "World Health Organization",
+      "where": "Geneva",
+      "country": "Switzerland",
+      "text": "The first WHO World report on vision estimated that at least 2.2 billion people have a near or distance vision problem, and that at least 1 billion of these could have been prevented or have not been treated.",
+      "why": "It showed that most poor sight is caused by things we already know how to fix, such as cataracts and missing glasses.",
+      "box": "health",
+      "sources": [
+        48,
+        47
+      ]
+    },
+    {
+      "year": 2021,
+      "date": "2019–2021",
+      "era": "global",
+      "art": "earth",
+      "title": "Myopia rises fast in Indian children",
+      "who": "Priscilla and Verkicharla",
+      "where": "Hyderabad",
+      "country": "India",
+      "text": "Pooling Indian studies, researchers found that myopia in city children aged 5 to 15 rose from about 4% in 1999 to about 21% in 2019, and projected about 48% by 2050.",
+      "why": "Short sight is becoming one of the most common health problems for Indian children.",
+      "box": "glasses",
+      "sources": [
+        45
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Described cataract couching",
+      "value": "c. 600 BCE (attributed)",
+      "who": "Sushruta Samhita, India"
+    },
+    {
+      "label": "Showed that light enters the eye",
+      "value": "1011–1021",
+      "who": "Ibn al-Haytham, Cairo"
+    },
+    {
+      "label": "Reading glasses",
+      "value": "c. 1286",
+      "who": "Unknown craftsmen, Pisa, Italy"
+    },
+    {
+      "label": "Explained the image on the retina",
+      "value": "1604",
+      "who": "Johannes Kepler, Prague"
+    },
+    {
+      "label": "Ophthalmoscope",
+      "value": "1851",
+      "who": "Hermann von Helmholtz, Germany"
+    },
+    {
+      "label": "Standard eye chart",
+      "value": "1862",
+      "who": "Herman Snellen, Utrecht"
+    },
+    {
+      "label": "Contact lens",
+      "value": "1888",
+      "who": "Adolf Eugen Fick, Zurich"
+    },
+    {
+      "label": "Intraocular lens implant",
+      "value": "29 November 1949",
+      "who": "Harold Ridley, London"
+    },
+    {
+      "label": "LASIK on a sighted eye",
+      "value": "1990",
+      "who": "Ioannis Pallikaris, Crete"
+    }
+  ],
+  "people": [
+    {
+      "name": "Ibn al-Haytham",
+      "life": "c. 965 – c. 1040",
+      "role": "Physicist and mathematician",
+      "from": "Basra, worked in Cairo",
+      "note": "Showed with experiments that vision is light entering the eye."
+    },
+    {
+      "name": "Johannes Kepler",
+      "life": "1571 – 1630",
+      "role": "Astronomer",
+      "from": "Germany",
+      "note": "Explained the upside-down image on the retina and how glasses work."
+    },
+    {
+      "name": "Thomas Young",
+      "life": "1773 – 1829",
+      "role": "Physician and physicist",
+      "from": "England",
+      "note": "Proposed three colour receptors; also explained astigmatism and accommodation."
+    },
+    {
+      "name": "John Dalton",
+      "life": "1766 – 1844",
+      "role": "Chemist",
+      "from": "England",
+      "note": "Described his own red–green colour blindness in 1794."
+    },
+    {
+      "name": "Hermann von Helmholtz",
+      "life": "1821 – 1894",
+      "role": "Physician and physicist",
+      "from": "Germany",
+      "note": "Invented the ophthalmoscope and explained how the lens changes shape to focus."
+    },
+    {
+      "name": "Herman Snellen",
+      "life": "1834 – 1908",
+      "role": "Ophthalmologist",
+      "from": "Netherlands",
+      "note": "Designed the eye chart still used today."
+    },
+    {
+      "name": "Santiago Ramón y Cajal",
+      "life": "1852 – 1934",
+      "role": "Neuroscientist",
+      "from": "Spain",
+      "note": "Drew the retina's cells and how they connect."
+    },
+    {
+      "name": "Harold Ridley",
+      "life": "1906 – 2001",
+      "role": "Ophthalmologist",
+      "from": "England",
+      "note": "Implanted the first intraocular lens in 1949."
+    },
+    {
+      "name": "Govindappa Venkataswamy",
+      "life": "1918 – 2006",
+      "role": "Ophthalmologist",
+      "from": "Tamil Nadu, India",
+      "note": "Founded Aravind Eye Hospitals to end needless blindness."
+    },
+    {
+      "name": "Patricia Bath",
+      "life": "1942 – 2019",
+      "role": "Ophthalmologist and inventor",
+      "from": "USA",
+      "note": "Invented the Laserphaco Probe for cataract surgery."
+    }
+  ],
+  "series": [
+    {
+      "id": "myopia",
+      "title": "Share of the world's people who are short-sighted",
+      "unit": "% of people",
+      "log": false,
+      "after": "global",
+      "caption": "Estimates and projections from Holden et al. (2016): myopia is expected to rise from about 1 in 4 people to about 1 in 2 by 2050. Values after 2016 are projections, not measurements.",
+      "points": [
+        {
+          "year": 2000,
+          "value": 22.9,
+          "label": "Holden 2016 estimate: 22.9% (1.4 billion people)"
+        },
+        {
+          "year": 2010,
+          "value": 28,
+          "label": "Holden 2016 estimate: about 28% (2 billion people)"
+        },
+        {
+          "year": 2050,
+          "value": 49.8,
+          "label": "Holden 2016 projection: 49.8% (4.8 billion people)"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Your blind spot is about 5 degrees wide: room for about ten full Moons side by side.",
+    "The picture on your retina is upside down. Your brain turns it the right way up.",
+    "An eyeball just 1 mm too long makes you about 3 dioptres short-sighted.",
+    "A rod can respond to a single photon of light.",
+    "The fovea packs up to about 200,000 cones into each square millimetre."
+  ],
+  "sources": [
+    {
+      "title": "Sushruta Samhita",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sushruta_Samhita"
+    },
+    {
+      "title": "Cataract Surgery: Couching to Phaco",
+      "publisher": "American Academy of Ophthalmology Museum",
+      "url": "https://www.aao.org/museum/exhibition-detail/cataract-surgery-couching-to-phaco-2"
+    },
+    {
+      "title": "Sushruta in 600 B.C. introduced extraocular expulsion of lens material (Grzybowski & Ascaso, 2014)",
+      "publisher": "Acta Ophthalmologica",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/aos.12037"
+    },
+    {
+      "title": "Euclid's Optics",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Euclid%27s_Optics"
+    },
+    {
+      "title": "Book of Optics",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Book_of_Optics"
+    },
+    {
+      "title": "Ibn al-Haytham",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Ibn-al-Haytham"
+    },
+    {
+      "title": "Glasses: history",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Glasses#History"
+    },
+    {
+      "title": "Eyeglasses",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/technology/eyeglasses"
+    },
+    {
+      "title": "Astronomiae Pars Optica (Ad Vitellionem Paralipomena)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Astronomiae_Pars_Optica"
+    },
+    {
+      "title": "Christoph Scheiner",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Christoph_Scheiner"
+    },
+    {
+      "title": "Christoph Scheiner's eye studies",
+      "publisher": "Documenta Ophthalmologica (Springer)",
+      "url": "https://link.springer.com/content/pdf/10.1007/BF00155011.pdf"
+    },
+    {
+      "title": "Opticks",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Opticks"
+    },
+    {
+      "title": "Jacques Daviel",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jacques_Daviel"
+    },
+    {
+      "title": "Jacques Daviel (1696–1762) and the Competition to Extract Cataracts: A Reappraisal",
+      "publisher": "PMC (NIH)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375357/"
+    },
+    {
+      "title": "John Dalton: colour blindness",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Dalton#Colour_blindness"
+    },
+    {
+      "title": "Young–Helmholtz theory",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Young%E2%80%93Helmholtz_theory"
+    },
+    {
+      "title": "Egmore Eye Hospital (Madras Eye Infirmary)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Egmore_Eye_Hospital"
+    },
+    {
+      "title": "On the 200th Anniversary of the Madras Eye Infirmary, the First Ophthalmic Hospital in Asia",
+      "publisher": "Madras Musings",
+      "url": "https://madrasmusings.com/vol-30-no-2/on-the-200th-anniversary-of-the-madras-eye-infirmary-the-first-ophthalmic-hospital-in-asia/"
+    },
+    {
+      "title": "Ophthalmoscopy: history",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ophthalmoscopy"
+    },
+    {
+      "title": "Hermann von Helmholtz",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Hermann-von-Helmholtz"
+    },
+    {
+      "title": "Snellen chart",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Snellen_chart"
+    },
+    {
+      "title": "Franciscus Donders",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Franciscus_Donders"
+    },
+    {
+      "title": "Franz Christian Boll",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Franz_Christian_Boll"
+    },
+    {
+      "title": "Rhodopsin",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/science/rhodopsin"
+    },
+    {
+      "title": "Adolf Eugen Fick",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Adolf_Eugen_Fick"
+    },
+    {
+      "title": "Adolf Eugen Fick",
+      "publisher": "Science Museum Group Collection",
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/cp86267/adolf-eugen-fick"
+    },
+    {
+      "title": "Santiago Ramón y Cajal",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal"
+    },
+    {
+      "title": "The Nobel Prize in Physiology or Medicine 1911",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/medicine/1911/summary/"
+    },
+    {
+      "title": "Harold Ridley (ophthalmologist)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Harold_Ridley_(ophthalmologist)"
+    },
+    {
+      "title": "Harold Ridley, MD",
+      "publisher": "American Academy of Ophthalmology",
+      "url": "https://www.aao.org/biographies-detail/harold-ridley-md"
+    },
+    {
+      "title": "Celebrating 75 Years Since the First IOL",
+      "publisher": "CRST (Cataract & Refractive Surgery Today)",
+      "url": "https://crstoday.com/articles/jan-2025/celebrating-75-years-since-the-first-iol"
+    },
+    {
+      "title": "The Nobel Prize in Physiology or Medicine 1981",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/medicine/1981/summary/"
+    },
+    {
+      "title": "The Nobel Prize in Physiology or Medicine 1967",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/medicine/1967/summary/"
+    },
+    {
+      "title": "Our story",
+      "publisher": "Aravind Eye Care System",
+      "url": "https://aravind.org/our-story/"
+    },
+    {
+      "title": "Govindappa Venkataswamy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Govindappa_Venkataswamy"
+    },
+    {
+      "title": "Dr. Govindappa Venkataswamy: Reimagining eye care in the third world",
+      "publisher": "PMC (NIH)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9333007/"
+    },
+    {
+      "title": "Aravind Eye Care System (Hilton Humanitarian Prize)",
+      "publisher": "Conrad N. Hilton Foundation",
+      "url": "https://www.hiltonfoundation.org/laureates/aravind-eye-care-system/"
+    },
+    {
+      "title": "Update on National Programme for Control of Blindness and Visual Impairment",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1944598"
+    },
+    {
+      "title": "National Program for Control of Blindness and Visual Impairment",
+      "publisher": "Public Health Department, Government of Maharashtra",
+      "url": "https://phd.maharashtra.gov.in/en/scheme/national-program-for-control-of-blindness-and-visual-impairment/"
+    },
+    {
+      "title": "Patricia Bath",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Patricia-Bath"
+    },
+    {
+      "title": "Patricia Bath",
+      "publisher": "National Inventors Hall of Fame",
+      "url": "https://www.invent.org/inductees/patricia-bath"
+    },
+    {
+      "title": "Ioannis Pallikaris",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ioannis_Pallikaris"
+    },
+    {
+      "title": "The Advent of LASIK",
+      "publisher": "CRST Europe",
+      "url": "https://crstodayeurope.com/articles/2010-jul/the-advent-of-lasik/"
+    },
+    {
+      "title": "Global Prevalence of Myopia and High Myopia and Temporal Trends from 2000 through 2050 (Holden et al., 2016)",
+      "publisher": "Ophthalmology / PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26875007/"
+    },
+    {
+      "title": "Myopia: a growing epidemic",
+      "publisher": "Translational Vision Science & Technology (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6688420/"
+    },
+    {
+      "title": "Time trends on the prevalence of myopia in India: a prediction model for 2050 (Priscilla & Verkicharla, 2021)",
+      "publisher": "Ophthalmic and Physiological Optics",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/opo.12806"
+    },
+    {
+      "title": "Blindness and visual impairment and their causes in India: results of a nationally representative survey",
+      "publisher": "PLOS One",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0271736"
+    },
+    {
+      "title": "Causes of blindness and vision impairment in 2020 and trends over 30 years",
+      "publisher": "The Lancet Global Health",
+      "url": "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30489-7/fulltext"
+    },
+    {
+      "title": "World report on vision",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/publications/i/item/9789241516570"
+    },
+    {
+      "title": "How the Eyes Work",
+      "publisher": "National Eye Institute (NIH)",
+      "url": "https://www.nei.nih.gov/learn-about-eye-health/healthy-vision/how-eyes-work"
+    },
+    {
+      "title": "Color Blindness",
+      "publisher": "National Eye Institute (NIH)",
+      "url": "https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/color-blindness"
+    }
+  ]
+}

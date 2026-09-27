@@ -1,0 +1,126 @@
+{
+  "slug": "eyeclear",
+  "box": 31,
+  "question": "How does the eye see?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/eyeclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/eyeclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "2,600 years from pushing a cloudy lens aside with a needle to lasers, plastic lenses and a billion people still waiting for glasses.\n\n1011: Light comes into the eye\n1286: Glasses for reading\n1604: A picture on the retina, upside down\n1794: A scientist describes his own colour blindness\n1802: Three kinds of receptor\n1851: Seeing inside a living eye\n\nThe full story, with 28 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/eyeclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/eyeclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #eye #vision #retina #myopia #colourvision #optics #history",
+      "youtube": {
+        "title": "The history of understanding the eye in 45 seconds #shorts",
+        "description": "2,600 years from pushing a cloudy lens aside with a needle to lasers, plastic lenses and a billion people still waiting for glasses.\n\n1011 · Light comes into the eye (Ibn al-Haytham (Alhazen))\n1286 · Glasses for reading (Unknown craftsmen)\n1604 · A picture on the retina, upside down (Johannes Kepler)\n1794 · A scientist describes his own colour blindness (John Dalton)\n1802 · Three kinds of receptor (Thomas Young)\n1851 · Seeing inside a living eye (Hermann von Helmholtz)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/eyeclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/eyeclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does the eye see?\n\nYour eye is a 24 mm camera that focuses by changing the shape of a living lens, turns light into signals with 120 million rods and 6 million cones, and even has a blind spot you never notice. Trace real light rays through a 3D eye, try on glasses, and find your own blind spot.\n\n→ Your eye is a 24 mm ball of clear jelly, turned by six muscles.\n→ Light passes the cornea, the pupil and the lens, and lands on the retina at the back.\n→ The cornea does two-thirds of the focusing. The lens rounds up to focus on near things.\n→ After about 45 the lens stiffens, and the picture of a near book stays blurry.\n→ A short-sighted eye is too long, so light meets in front of the retina. A concave lens fixes it.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/eyeclear (link in bio)\n\nBox No. 031 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #eye #vision #retina #myopia #colourvision #optics #humanbody #biology #threejs",
+    "carousel": "Swipe through: How does the eye see?\n\nYour eye is a 24 mm camera that focuses by changing the shape of a living lens, turns light into signals with 120 million rods and 6 million cones, and even has a blind spot you never notice. Trace real light rays through a 3D eye, try on glasses, and find your own blind spot.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/eyeclear (link in bio).\n\nBox No. 031 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #eye #vision #retina #myopia #colourvision #optics",
+    "youtube": {
+      "title": "How does the eye see? #shorts",
+      "description": "Your eye is a 24 mm camera that focuses by changing the shape of a living lens, turns light into signals with 120 million rods and 6 million cones, and even has a blind spot you never notice. Trace real light rays through a 3D eye, try on glasses, and find your own blind spot.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/eyeclear/\n⌘ Source code (MIT): https://github.com/bdeeps/eyeclear\n\nBox No. 031 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does the eye see? (interactive explainer)",
+      "description": "Your eye is a 24 mm camera that focuses by changing the shape of a living lens, turns light into signals with 120 million rods and 6 million cones, and even has a blind spot you never notice. Trace real light rays through a 3D eye, try on glasses, and find your own blind spot.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/eyeclear/\n⌘ Source code (MIT): https://github.com/bdeeps/eyeclear\n\nIn this video:\n• A camera made of jelly. Light enters through the clear cornea, passes the pupil in the coloured iris, and is focused by the lens onto the retina at the back of a 24 mm ball of clear jelly.\n• The cornea does most of the focusing. The eye has about 60 dioptres of focusing power.\n• Why we need reading glasses. The lens stiffens with age.\n• A millimetre too long. In short sight the eyeball is usually too long, so distant light focuses in front of the retina; each extra millimetre is roughly 3 dioptres.\n• Rods, cones and the blind spot. About 120 million rods see in dim light but not in colour; about 6 million cones, packed into the fovea, give colour and detail.\n• Three cones make every colour. S, M and L cones peak near 420, 530 and 560 nm, and the brain reads colour from the pattern of their signals.\n• Keeping eyes healthy. Cataract, a clouded lens, is the leading cause of blindness worldwide and in India, and surgery replaces it with a clear plastic lens.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does the eye see?\n\nYour eye is a 24 mm camera that focuses by changing the shape of a living lens, turns light into signals with 120 million rods and 6 million cones, and even has a blind spot you never notice.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/eyeclear/",
+    "linkedin": "How does the eye see?\n\nYour eye is a 24 mm camera that focuses by changing the shape of a living lens, turns light into signals with 120 million rods and 6 million cones, and even has a blind spot you never notice. Trace real light rays through a 3D eye, try on glasses, and find your own blind spot.\n\n1. A camera made of jelly\n2. The cornea does most of the focusing\n3. Why we need reading glasses\n4. A millimetre too long\n5. Rods, cones and the blind spot\n6. Three cones make every colour\n7. Keeping eyes healthy\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 031 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/eyeclear/\nCode: https://github.com/bdeeps/eyeclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-27T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-27T12:30:49.822Z"
+}
